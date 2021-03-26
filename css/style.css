@@ -24,6 +24,7 @@ header{
 	background-color: #fff;
 }
 
+
 #hero-slides h3{
 	font-family: "catamaranbold";
 	font-size: 30px;
@@ -187,7 +188,7 @@ header{
 #sponsors{
     padding: 5% 0;
     text-align: center;
-    padding-bottom: 40px;
+    padding-bottom: 8%;
 
 }
 #sponsors h2{
@@ -201,11 +202,11 @@ header{
 	font-weight: 500;
 	padding-top: 15px;
 }
-#sponsors2{
-    padding: 30px;
-    text-align: center;
-    padding-bottom: 80px;
+
+#sponsors img{
+	padding: 8% 0;
 }
+
 
 footer{
 	background-color: var(--fondo-footer);
